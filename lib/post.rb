@@ -1,9 +1,10 @@
 class Post
   
-  
+attr_reader :title :author
   
  def intialize(title, author)
-    
-  end
+    @title = title
+    @author = author
+ end
 
 end
