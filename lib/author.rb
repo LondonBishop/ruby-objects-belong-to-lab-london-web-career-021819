@@ -1,6 +1,6 @@
 class Author
   
-  attr_reader :name
+  attr_accessible :name
   
   def intialize(name)
     @name = name
