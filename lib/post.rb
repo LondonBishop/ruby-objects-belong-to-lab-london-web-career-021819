@@ -1,5 +1,7 @@
 class Post
   
-  def initailize ()
-  
+ def intialize (title, author)
+    
+  end
+
 end
